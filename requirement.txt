@@ -2,3 +2,5 @@ this is chat application
 emojoi
 type option
 vibnant
+dark mode 
+vedio call
